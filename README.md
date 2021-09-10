@@ -2,17 +2,16 @@
 
 ## Project Links
 
-- [add your github repo link]()
+- [GitHub](https://github.com/smwellmer/capstone)
 - [add your deployment link]()
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+I am developing a full-stack eCommerce site for my mom's cafe. She already uses Square payment processing, so I wanted to incorporate that in the website for her business. Depending on how intensive the Square portion will be, I also had thoughts of trying to use Next.JS for my front-end.
 
 ## API
 
-Use this section to include info about the API you have chosen and a code snippet of the data that it returns and is required for your project. 
-
+[Square API](https://developer.squareup.com/reference/square)
 
 ```
 {data: {} }
