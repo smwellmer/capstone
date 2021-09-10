@@ -50,7 +50,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 | Cart Totals Functionality | H | 8hrs| hrs | hrs |
 | Model for Menu Items | H | 3hrs| hrs | hrs |
 | Adding Contact Form | L | 2hrs| hrs | hrs |
-| Total | H | hrs| hrs | hrs |
+| Total | H | 42hrs| hrs | hrs |
 
 
 
